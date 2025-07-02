@@ -1,4 +1,4 @@
-# Cats and Dogs Image Classification
+# Cats and Dogs Image Classifier
 
 The purpose of this project is to use Convolutional Neural Networks (CNN) and Neural Networks (NN) to classify images of cats and dogs a test accuracy above 50%. After creating and running each model, model loss and accuracy are compared on each to determine which one performed better. 
 
